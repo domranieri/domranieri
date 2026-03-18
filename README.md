@@ -12,7 +12,7 @@ Computer Science student focused on software development and building practical 
 ---
 
 ## Projects
-- **C++ Banking App** – Console-based OOP investment calculator with modular classes and compound interest reports  
+- **C++ Investment Calculator** – Console based OOP investment calculator with modular classes and compound interest reports  
 - **C++ Course Planner** – Binary search tree based program for managing course information and prerequisites   
 - **Python Discord Bot** – API based music bot for Discord (in development; demonstrates Python and API integration)  
 
