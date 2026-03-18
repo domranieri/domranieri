@@ -1,16 +1,16 @@
-## Hi there 👋
+## Dominic Ranieri
+Computer Science student focused on software development
 
-<!--
-**domranieri/domranieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Java, Python, C++, HTML, SQL
+- Object oriented programming
+- Data structures
 
-Here are some ideas to get you started:
+### Projects
+- C++ Banking App – OOP-based financial calculator
+- Dual Clock Program – 12/24 hour time system
+- Python Discord Bot – API-based music bot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Data engineering
+- Software design practices
