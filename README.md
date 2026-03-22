@@ -10,7 +10,7 @@ Computer Science student focused on software development and building practical 
 
 **Concepts:** Object oriented programming, data structures, algorithms
 
-**Tools:** Git, GitHub, Visual Studio, VS Code, PyCharm, Eclipse, MySQL
+**Tools:** Git, GitHub, Visual Studio, VS Code, PyCharm, IntelliJ IDEA, Eclipse, MySQL
 
 ---
 
